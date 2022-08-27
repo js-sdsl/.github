@@ -1,6 +1,6 @@
-# Welcome to the Js-sdsl organzition 👋!
+## Welcome to the Js-sdsl organzition 👋
 
-> A Javascript Standard Data Structure Library
+> Js-sdsl is a Javascript Standard Data Structure Library.
 
 [**Official Website**](https://js-sdsl.github.io/)
 
@@ -15,14 +15,14 @@
   <a href="https://github.com/js-sdsl/js-sdsl/"><img src="https://img.shields.io/github/languages/top/js-sdsl/js-sdsl.svg" alt="GITHUB-language" /></a>
 </p>
 
-## Advantage
+### Advantage
 
 - High performance, surpassing all known libraries.
 - Simple and lightweight (~9kB compressed)
 - Without any external dependencies
 - Implemented C++ STL bidirectional iterator
 
-## Repo
+### Repo
 
 - [Js-sdsl](https://github.com/js-sdsl/js-sdsl)
 - [Js-sdsl benchmark](https://github.com/js-sdsl/benchmark)
